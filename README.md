@@ -1,4 +1,4 @@
-![Introducing Poolside FM for the Apple Macintosh](readme-image.png)
+![Introducing Poolside FM for the Apple Macintosh](readme-image.gif)
 
 Introducing Poolside FM for the Apple Macintosh. Available [wherever Macintosh applications are sold](https://github.com/izuchukwu/poolside-mac/blob/master).
 
