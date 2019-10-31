@@ -1,0 +1,19 @@
+{
+  "name": "poolside-mac",
+  "version": "0.1.0",
+  "description": "The sunniest spot on your Macintosh™️",
+  "main": "main.js",
+  "repository": "https://github.com/izuchukwu/poolside-mac",
+  "author": "Izuchukwu Elechi",
+  "license": "MIT",
+  "private": true,
+  "productName": "Poolside FM",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-packager ./ --app-copyright=\"© Izuchukwu Elechi\" --icon=icon-mac.icns --out=dist --overwrite=true --app-bundle-id=co.izuchukwu.poolside --app-category-type=public.app-category.music"
+  },
+  "devDependencies": {
+    "electron": "^7.0.0",
+    "electron-packager": "^14.1.0"
+  }
+}

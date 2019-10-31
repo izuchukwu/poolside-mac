@@ -1,2 +1,3 @@
-# poolside-mac
-grab your mojito, its poolside fm for the macintosh
+# Poolside FM for the Macintosh
+
+Introducing Poolside FM for the Apple Macintosh. Available wherever Macintosh applications are sold.
