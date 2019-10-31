@@ -1,6 +1,6 @@
 ![Introducing Poolside FM for the Apple Macintosh](readme-image.png)
 
-Introducing Poolside FM for the Apple Macintosh. Available [wherever Macintosh applications are sold]().
+Introducing Poolside FM for the Apple Macintosh. Available [wherever Macintosh applications are sold](https://github.com/izuchukwu/poolside-mac/blob/master).
 
 This is an unofficial Mac app for [Poolside FM](https://poolside.fm), though it sounds like an official one [is coming soon](https://twitter.com/marty/status/1173273097237086210).
 
