@@ -13,7 +13,7 @@
     "package": "electron-packager ./ --app-copyright=\"© Izuchukwu Elechi\" --icon=icon-mac.icns --out=dist --overwrite=true --app-bundle-id=co.izuchukwu.poolside --app-category-type=public.app-category.music"
   },
   "devDependencies": {
-    "electron": "^7.2.4",
+    "electron": "^9.4.0",
     "electron-packager": "^14.1.0"
   }
 }
